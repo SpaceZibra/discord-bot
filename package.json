@@ -1,0 +1,43 @@
+{
+  "name": "antispam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "balanced-match": "^1.0.2",
+    "brace-expansion": "^1.1.11",
+    "callsites": "^3.1.0",
+    "combined-stream": "^1.0.8",
+    "concat-map": "^0.0.1",
+    "delayed-stream": "^1.0.0",
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^13.1.0",
+    "dot-prop": "^6.0.1",
+    "glob": "^7.1.7",
+    "fs.realpath": "^1.0.0",
+    "inherits": "^2.0.4",
+    "is-obj": "^2.0.0",
+    "inflight": "^1.0.6",
+    "lodash.isequal": "^4.5.0",
+    "mime-db": "^1.49.0",
+    "mime-types": "^2.1.32",
+    "minimatch": "^3.0.4",
+    "node-fetch": "^2.6.2",
+    "once": "^1.4.0",
+    "path-is-absolute": "^1.0.1",
+    "ow": "^0.27.0",
+    "ts-mixer": "^6.0.0",
+    "tslib": "^2.3.1",
+    "type-fest": "^1.4.0",
+    "vali-date": "^1.0.0",
+    "wrappy": "^1.0.2",
+    "ws": "^7.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
